@@ -13,7 +13,7 @@ body{
 
 .container{
   height: 400px;
-  background-color: #9e9ad6;
+  background-color: #1c0df1;
   transform: skewY(10deg) translateY(-88px);
  
 }
@@ -58,7 +58,7 @@ input::placeholder{
 
 }
 .btn{
-background-color: #9e9ad6;
+background-color: #1c0df1;
 border: 0;
 color: white;
 padding: 10px 20px;
