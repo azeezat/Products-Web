@@ -12,4 +12,5 @@ Clone the repo from github and install dependencies through npm.
 git clone https://github.com/azeezat/Products-Web.git
 cd produts-web
 npm install
+npm start
 ```
